@@ -27,7 +27,7 @@ It was tricky understanding where to find tools on XCode, but I slowly got the h
 
 After some Google searches and jam sessions, I put my favorite song over it and added a play button.
 
-It's party time!
+It's disco time!
 
 ## License
 

@@ -6,14 +6,19 @@
 //
 
 import UIKit
+import AVFoundation
 
 class ViewController: UIViewController {
 
+    var player: AVAudioPlayer!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         // Do any additional setup after loading the view.
     }
 
+    // Switch button functionality
     @IBAction func changeBackgroundColor(_ sender: UIButton) {
         let randomColor = changeColor()
         view.backgroundColor = randomColor
@@ -26,5 +31,19 @@ class ViewController: UIViewController {
         
         return UIColor(red: red, green: green, blue: blue, alpha: 0.5)
     }
+    
+    // Music button
+    
+   
+    @IBAction func playButton(_ sender: UIButton) {
+            playMusic()
+    }
+    
+    func playMusic(){
+        let url = Bundle.main.url(forResource: "assumptions-sam-g", withExtension: "mp3")
+        player = try! AVAudioPlayer(contentsOf: url!)
+        player!.play()
+    }
+        
 }
 

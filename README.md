@@ -2,7 +2,7 @@
 
 Submitted by: **Rosana Josepha**
 
-**Disco Time** is an app that encourages users to boogie 
+**Disco Time** is an app that encourages users to boogie and have fun
 
 Time spent: **2-3** hours spent in total
 
@@ -10,8 +10,9 @@ Time spent: **2-3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with 2 labels, an image, and 2 buttons
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with 2 labels and 2 buttons
+- [x] Tapping the "Play!" button plays a song
+- [x] Tapping the "Switch" button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -21,11 +22,27 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
-Clicking the button to change the background color made me think of flashing lights at a party.
+[EDIT THIS]
+Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. It's okay if features repeat on different apps
 
-It was tricky understanding where to find tools on XCode, but I slowly got the hang of it.
+# Some of my Favorite Apps and Features
 
-After some Google searches and jam sessions, I put my favorite song over it and added a play button.
+*Spotify*
+
+• 
+
+*iMessage*
+
+*App*
+
+
+# App I'd like to Build
+It can be a new idea or an improvement on an existing app. 
+Write a short paragraph describing the app and the features you would like to implement. 
+
+
+
+For this project, clicking the button to change the background color made me think of flashing lights at a party. It was tricky understanding where to find tools on XCode, but I slowly got the hang of it. After some Google searches and jam sessions, I put my favorite song over it and added a play button.
 
 It's disco time!
 

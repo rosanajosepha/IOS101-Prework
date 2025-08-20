@@ -15,8 +15,9 @@ The following **required** functionality is completed:
 - [x] Tapping the "Switch" button changes the screen color to a random color
  
 ## Video Walkthrough
+Because my app has sound, I recorded using Zoom instead of Loom (since Loom only records system sound inside a browser tab).
 
-<video src="https://www.youtube.com/watch?v=5MFzihrVcsc&ab_channel=juni" width="320" height="240" controls></video>
+[Video Walkthrough of My App](https://www.youtube.com/watch?v=5MFzihrVcsc&ab_channel=juni)
 
 ## App Brainstorming
 
